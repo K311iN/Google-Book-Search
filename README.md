@@ -1,1 +1,3 @@
-# google-book-search
+# Google-Book-Search
+
+Google Book Search is a full MERN application. Users can search for books through the Google Book API and the app will render them to the search page. Users can then "View" a book bringing them to the book and Google Books, or "Save" the book saving it to a Mongo database with will render it on a Saved Books Page. User then have the option to view the book or delete it removing it from the database.
